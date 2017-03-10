@@ -11,6 +11,7 @@ Required
 Description
 ------------
 * Robot905 is the primary robot that was tested and performed the best out.
+* Utilizes OOP and Inheritance
 * Tested against 4 other robots with different fighting styles.
 * Analysis of fight results included in included word file, "Robot905 Testing".
 * becker.robots Java library required
