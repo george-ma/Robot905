@@ -4,7 +4,7 @@ Robot War Simulator
 
 Required
 ----------
-[Java JDK 6 or higher](http://www.oracle.com/technetwork/java/javase/overview/index.html
+[Java JDK 6 or higher](http://www.oracle.com/technetwork/java/javase/overview/index.html)
 
 [becker.robots](http://www.learningwithrobots.com/software/software.html)
 
